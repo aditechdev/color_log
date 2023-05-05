@@ -1,6 +1,6 @@
 name: color_log
-description: ColorLog` is a flutter package to help the developer get noticible `Log` with color and emoji, This package will help the developer to get there log different from the messy blue color text, There different emoji make the log noticible
-version: 0.0.2
+description: ColorLog is a Flutter package that provides developers with a colorful and emoji-filled way to log information. With ColorLog, developers can easily differentiate their logs from the typical blue text, making them more noticeable and easier to read. The package offers various emojis that can be included in the logs, adding a fun and expressive touch to the output. By using ColorLog, developers can quickly and easily customize their log output, making it easier to understand and debug issues in their application.
+version: 0.0.3
 homepage: https://github.com/aditechdev/color_log.git
 
 environment:
