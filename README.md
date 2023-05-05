@@ -26,7 +26,10 @@ and the Flutter guide for
 - There different emoji make the log noticible
 
 Show some ❤️ and star the repo to support the project
-Also don't forget to share  with other developer, if you like it hit the like button
+
+Also don't forget to share  with other developer,
+
+if you like it hit the like button
 
 
 
