@@ -11,6 +11,14 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
+[![pub package](https://img.shields.io/pub/v/color_log.svg?logo=dart&logoColor=00b9fc)](https://pub.dev/packages/color_log)
+[![Last Commits](https://img.shields.io/github/last-commit/aditechdev/color_log?logo=git&logoColor=white)](https://github.com/aditechdev/color_log/commits/main)
+[![Pull Requests](https://img.shields.io/github/issues-pr/aditechdev/color_log?logo=github&logoColor=white)](https://github.com/aditechdev/color_log/pulls)
+[![Code size](https://img.shields.io/github/languages/code-size/aditechdev/color_log?logo=github&logoColor=white)](https://github.com/aditechdev/color_log)
+[![License](https://img.shields.io/github/license/aditechdev/color_log?logo=open-source-initiative&logoColor=green)](https://github.com/aditechdev/color_log/blob/main/LICENSE)
+
+<!-- [![CI](https://img.shields.io/github/actions/workflow/status/Bungeefan/logger/dart.yml?branch=master&logo=github-actions&logoColor=white)](https://github.com/Bungeefan/logger/actions) -->
+
 `ColorLog` is a flutter package to help the developer get noticible `Log` with color and emoji 💔✅
 
 - This package will help the developer to get there log different from the messy blue color text
