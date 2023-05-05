@@ -29,7 +29,7 @@ Please show support for the project by
 
 liking ❤️ and starring ⭐⭐⭐⭐⭐ the repo, and don't forget to share ✈️ it with other developers.
                                                                            
-                                                            I ❤️ love emoji
+                                            I ❤️ love emoji
 
 
 

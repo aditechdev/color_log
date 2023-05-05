@@ -14,3 +14,6 @@
 ## 0.0.5
 
 * Small change
+## 0.0.6
+
+* Small change
