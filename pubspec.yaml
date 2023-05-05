@@ -1,7 +1,7 @@
 name: color_log
 description: To help the developer to get colourful log.
 version: 0.0.1
-homepage:
+homepage: https://github.com/aditechdev/color_log.git
 
 environment:
   sdk: '>=2.19.4 <3.0.0'
