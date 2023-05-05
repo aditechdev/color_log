@@ -1,18 +1,19 @@
 library color_log;
+
 import 'package:flutter/foundation.dart';
 
-enum LogLevel { info, warning, error, debug, wtf, success, fail }
+enum LogLevel { info, warning, error, debug, wtf, success, fail, todo }
 
 /// A Calculator.
 class ColorLog {
-  String _reset = '\x1B[0m';
-  String _red = '\x1B[31m';
-  String _green = '\x1B[32m';
-  String _yellow = '\x1B[33m';
-  String _bold = '\x1B[1m';
-  String _cyan = '\x1b[36m';
-  String _purple = '\x1B[35m';
-
+  final String _reset = '\x1B[0m';
+  final String _red = '\x1B[31m';
+  final String _green = '\x1B[32m';
+  final String _yellow = '\x1B[33m';
+  final String _bold = '\x1B[1m';
+  final String _cyan = '\x1b[36m';
+  final String _purple = '\x1B[35m';
+  final String _pink = "\x1b[38;5;205m";
 
   /// To get information about something
   ///
@@ -79,6 +80,17 @@ class ColorLog {
     }
   }
 
+  ///To log todo check operation
+  ///
+  ///This will always remind your todo in log
+  todo(String message) {
+    printTheMessage(
+        color: _pink,
+        emoji: "📝",
+        message: message,
+        logType: LogLevel.todo.name);
+  }
+
   ///This is a custom log
   ///
   ///Need to add all the custom properties
@@ -106,7 +118,7 @@ printTheMessage(
     print('$color$bold ---------------------------------------------');
 
     print(
-        '$emoji $color$bold[${logType.toUpperCase()}]$normal$color $message$reset');
+        '$emoji $color$bold[${logType.toUpperCase()}]:$normal$color $message$reset');
     // print(
     //     '$color$bold --------------------------------------------------------------');
   }
