@@ -11,3 +11,6 @@
 ## 0.0.4
 
 * Simplify the description
+## 0.0.5
+
+* Small change
