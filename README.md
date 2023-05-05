@@ -185,3 +185,5 @@ clog.custom(message: "This is custom log", emoji: "🍃" , ansiColor: "Any ANSI 
 ## Additional information
 
 To see more detail go to github
+
+created by [Aditechdev](https://github.com/aditechdev).
