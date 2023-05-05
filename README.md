@@ -19,17 +19,17 @@ and the Flutter guide for
 
 <!-- [![CI](https://img.shields.io/github/actions/workflow/status/Bungeefan/logger/dart.yml?branch=master&logo=github-actions&logoColor=white)](https://github.com/Bungeefan/logger/actions) -->
 
-`ColorLog` is a flutter package to help the developer get noticible `Log` with color and emoji 💔✅
+ColorLog is a Flutter package that provides colorful and emoji-filled logs, making them more noticeable and easier to read.
 
-- This package will help the developer to get there log different from the messy blue color text
+By using this package, developers can customize their log output, avoiding the usual messy blue text.
 
-- There different emoji make the log noticible
+With different emojis included, logs become more expressive and eye-catching. 
 
-Show some ❤️ and star the repo to support the project
+Please show support for the project by 
 
-Also don't forget to share  with other developer,
-
-if you like it hit the like button
+liking ❤️ and starring ⭐⭐⭐⭐⭐ the repo, and don't forget to share ✈️ it with other developers.
+                                                                           
+                                                            I ❤️ love emoji
 
 
 
