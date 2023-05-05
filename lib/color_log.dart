@@ -6,13 +6,13 @@ enum LogLevel { info, warning, error, debug, wtf, success, fail, todo }
 
 /// A Calculator.
 class ColorLog {
-  final String _reset = '\x1B[0m';
+  // final String _reset = '\x1B[0m';
   final String _red = '\x1B[31m';
   final String _green = '\x1B[32m';
   final String _yellow = '\x1B[33m';
-  final String _bold = '\x1B[1m';
+  // final String _bold = '\x1B[1m';
   final String _cyan = '\x1b[36m';
-  final String _purple = '\x1B[35m';
+  // final String _purple = '\x1B[35m';
   final String _pink = "\x1b[38;5;205m";
 
   /// To get information about something
